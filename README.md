@@ -1,12 +1,12 @@
 # Kleiderspende Hamburg
 
-A website for a fictional non-profit organization that collects clothing donations for crisis regions. Donors register their donation through a form and can choose the crisis region and how the donation is handed over.
-
 Case study from my Bachelor of Science in Computer Science at IU International University of Applied Sciences, module *Programming of Web Application Interfaces (IPWA01-01)*, November 2023. The project is a prototype and not meant for productive use.
 
 <p align="center">
   <img src="images/HomeClothes.png" width="600" alt="Kleiderspende Hamburg: home page">
 </p>
+
+A website for a fictional non-profit organization that collects clothing donations for crisis regions. Donors register their donation through a form and can choose the crisis region and how the donation is handed over.
 
 ## Features
 
